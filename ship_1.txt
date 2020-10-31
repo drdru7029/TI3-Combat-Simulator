@@ -1,0 +1,1 @@
+{"damage": 0, "weapon_types": null, "max_attack": 0, "min_attack": 0, "defense": 0, "mobility": 0, "accuracy": 0, "capacitor": 0, "signature": 0, "current_total_points_all": 0, "ship_name": "Ship 1", "status": "All systems go"}

@@ -1,0 +1,27 @@
+from colorama import init
+from colorama import Fore, Back, Style
+init()
+
+def logo_style():
+    print( Fore.RED + '             ___       ')
+    print( Fore.RED + '            /   \      ')
+    print( Fore.RED + '           /__ __\      ')
+    print( Fore.RED + '          |       |     ')
+    print( Fore.RED + '          |       |     ')
+    print( Fore.RED + '          |       |     ')
+    print( Fore.RED + '          |       |     ')
+    print( Fore.RED + '         /         \      ')
+    print( Fore.RED + '  |     /     T     \    | ')
+    print( Fore.RED + '  ||   /      I      \   || ')
+    print( Fore.RED + '  ||  /       3       \  || ')
+    print( Fore.RED + '  ||||    /       \    |||| ')
+    print( Fore.RED + '  ||||                 |||| ')
+    print( Fore.RED + '  ||||    __     __    |||| ')
+    print( Fore.RED + '      \                /  ')
+    print( Fore.RED + '       \              /   ')
+    print( Fore.RED + '        --------------                ')
+    print( Fore.RED + '           \|****|/         ')
+    print( Fore.RED + '            |****|         ')
+    print( Fore.RED + '            ------         ')
+    print( Fore.RED + '             ****              ')
+    print( Fore.RED + '              **             ')
